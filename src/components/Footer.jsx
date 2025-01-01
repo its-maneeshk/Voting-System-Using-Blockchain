@@ -56,7 +56,7 @@ const Footer = () => {
 
         {/* Copyright */}
         <div className="text-center mt-8 text-gray-500">
-          © {new Date().getFullYear()} Blockchain Voting Platform. All rights reserved.
+          © {new Date().getFullYear()} - Blockchain Voting Platform. All rights reserved.
         </div>
       </footer>
     </>
