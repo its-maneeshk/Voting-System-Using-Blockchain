@@ -1,10 +1,10 @@
 import React, { useState } from "react";
 
 const candidates = [
-  { id: 1, name: "Alice Johnson", party: "Democratic Alliance", experience: "5 years", bio: "Advocating for education and healthcare reforms." },
-  { id: 2, name: "Bob Smith", party: "People's Choice Party", experience: "3 years", bio: "Focusing on infrastructure and economic development." },
-  { id: 3, name: "Clara Lee", party: "Freedom Front", experience: "4 years", bio: "Committed to environmental sustainability and renewable energy." },
-  { id: 4, name: "David Kim", party: "Unity Party", experience: "6 years", bio: "Championing social justice and equal rights." },
+  { id: 1, name: "Prakash Karat (interim)", party: "Communist Party of India (Marxist)", experience: "5 years", bio: "Advocating for education and healthcare reforms." },
+  { id: 2, name: "Mallikarjun Kharge", party: "Indian National Congress (INC)", experience: "3 years", bio: "Focusing on infrastructure and economic development." },
+  { id: 3, name: "J. P. Nadda", party: "Bharatiya Janata Party (BJP)", experience: "4 years", bio: "Committed to environmental sustainability and renewable energy." },
+  { id: 4, name: "Arvind Kejriwal", party: "Aam Aadmi Party (AAP)", experience: "6 years", bio: "Championing social justice and equal rights." },
 ];
 
 const Candidate = () => {
