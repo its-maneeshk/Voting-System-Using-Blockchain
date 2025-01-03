@@ -32,7 +32,7 @@ The frontend is built using React and Vite, and it provides a user interface for
 5. [Frontend Development](#frontend-development)
 6. [Demo](#demo)
 
----
+```
 
 ## Demo
 
@@ -40,23 +40,23 @@ Here are some screenshots of the project in its current state:
 
 1. **Homepage View**  
    This is the landing page where users can see the list of candidates and their current vote counts.  
-   ![Homepage View](<replace_with_link_to_image>)
+   ![Homepage View](https://github.com/its-maneeshk/.assets/blob/a2d5a670c2021b394f16b59895423fbc63719491/Voting_System_using_Blockchain_Demo_images/Voting%20System%20using%20Blockchain%20Home.png)
 
 2. **Vote Button**  
    A close-up of the button that users will click to vote for a candidate.  
-   ![Vote Button](<replace_with_link_to_image>)
+   ![Vote Button](https://github.com/its-maneeshk/.assets/blob/a2d5a670c2021b394f16b59895423fbc63719491/Voting_System_using_Blockchain_Demo_images/Voting%20System%20using%20Blockchain%20Vote.png)
 
 3. **Candidate List**  
    Display of the candidates in the voting system.  
-   ![Candidate List](<replace_with_link_to_image>)
+   ![Candidate List](https://github.com/its-maneeshk/.assets/blob/a2d5a670c2021b394f16b59895423fbc63719491/Voting_System_using_Blockchain_Demo_images/Voting%20System%20using%20Blockchain%20candidate.png)
 
-4. **Vote Confirmation**  
+4. **Vote Result**  
    The vote confirmation screen that appears after voting.  
-   ![Vote Confirmation](<replace_with_link_to_image>)
+   ![Vote Confirmation](https://github.com/its-maneeshk/.assets/blob/a2d5a670c2021b394f16b59895423fbc63719491/Voting_System_using_Blockchain_Demo_images/Voting%20System%20using%20Blockchain%20result.png)
 
-5. **Error Handling**  
+5. **Footer**  
    Example of error handling when trying to vote for an already voted candidate.  
-   ![Error Handling](<replace_with_link_to_image>)
+   ![Error Handling](https://github.com/its-maneeshk/.assets/blob/a2d5a670c2021b394f16b59895423fbc63719491/Voting_System_using_Blockchain_Demo_images/Voting%20System%20using%20Blockchain%20home%20footer.png)
 
 
 ---
@@ -69,7 +69,7 @@ To get started, clone the repository and install the dependencies:
    ```bash
    git clone <repository-url>
    cd <relevent-dir>
-2.  **s**:
+2.  **Commands to install all the required dependencies**:
    ```bash
    cd client
    npm install
